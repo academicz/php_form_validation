@@ -9,14 +9,16 @@
   <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <!-- Latest compiled JavaScript -->
-<script type="text/javascript" src="../validation/vendor/jquery/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="../vendor/jquery/jquery-1.10.2.min.js"></script>
     
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     
-<link rel="stylesheet" href="../validation/dist/css/bootstrapValidator.css"/>
+<!-- Validator css and js -->  
+  
+<link rel="stylesheet" href="../dist/css/bootstrapValidator.css"/>
     
-<script type="text/javascript" src="../validation/dist/js/bootstrapValidator.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<script type="text/javascript" src="../dist/js/bootstrapValidator.js"></script>
+    
 </head>
 <body>
     <div class="container" style="margin-top: 50px;">
@@ -35,7 +37,7 @@
                             </div>
                             
                                 <?php
-                    include('Form.php');
+                    include('../Form.php');
                     $frm=new formBuilder;
                     ?>
                             <div class="form-group">
