@@ -30,7 +30,8 @@ It uses two functions
                 
                 "regexp"=>"type of field"
                 
-                    type of fields are : name,age address,pin,phone etc
+                    type of fields are : text,name,age address,pin,mobile number etc
+                    
                     "rmsg" - used with remote validation to display custom error message if remote 
                     validation is failed 
 
