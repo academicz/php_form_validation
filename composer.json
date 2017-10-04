@@ -11,10 +11,5 @@
             "email": "reghunath11@gmail.com",
             "role": "developer"
         }
-    ],
-    "autoload": {
-        "psr-0": {
-            "Rahulreghunath11": "src"
-        }
-    }
+    ]
 }
