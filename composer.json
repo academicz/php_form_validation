@@ -11,8 +11,5 @@
             "email": "reghunath11@gmail.com",
             "role": "Developer"
         }
-    ],
-    "require": {
-        "php": ">=5.3.0"
-    }
+    ]
 }
