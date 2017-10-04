@@ -1,9 +1,9 @@
 # PHP-Bootstrap Validator 
 
-* A PHP plugin to validate all form fields using the bootstrap validator.
+A PHP plugin to validate all form fields using the bootstrap validator.
 It uses two functions
 
-1. validate() to validate a particular field with given validation rules
+* 1. validate() to validate a particular field with given validation rules
 
     validate(field,array("validation rules"));
 
@@ -30,12 +30,13 @@ It uses two functions
                 
                 "regexp"=>"type of field"
                 
-                        type of fields are : name,age address,pin,phone etc
-                        "rmsg" - used with remote validation to display custom error message if remote validation is failed 
+                    type of fields are : name,age address,pin,phone etc
+                    "rmsg" - used with remote validation to display custom error message if remote 
+                    validation is failed 
 
     example: validate("password",array("required","label"=>"password","regexp"=>"name"));
 
-2. applyvalidations() to apply the generated validation rules to the page 
+* 2. applyvalidations() to apply the generated validation rules to the page 
     Only work if bootstrap validater is included in the page
     
     eg:
