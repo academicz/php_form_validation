@@ -1,9 +1,9 @@
 {
-    "name": "rahulreghunath11/PHP-BValidation",
+    "name": "rahulreghunath11/php-rvalidation",
     "type": "library",
     "description": "PHP form validation plugin ",
     "keywords": ["validation","bootstrap validation"],
-    "homepage": "https://github.com/rahulreghunath11/PHP-Form-Validation",
+    "homepage": "https://github.com/rahulreghunath11/php-form-validation",
     "license": "MIT",
     "authors": [
         {
