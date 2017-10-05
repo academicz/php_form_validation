@@ -1,6 +1,3 @@
-<!-- page :student_registration.php
-     purpose : student registration page
--->
 <!DOCTYPE html>
 <html>
 <head>
