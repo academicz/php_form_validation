@@ -164,7 +164,7 @@ class formBuilder
             $label=$rules["label"];
             $rmsg = $rules['rmsg'];
             $this->validators=$this->validators."remote: {
-                        message: $rmsg,
+                        message: '$rmsg',
                         url: '$remote',
                         type: 'POST',
                         delay: 2000
