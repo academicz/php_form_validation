@@ -4,10 +4,11 @@ A PHP plugin to validate all form fields using the bootstrap validator without w
 
 ## Installation
 
-    using composer 
+Using composer 
     
     ```composer require rahulreghunath11/php-rvalidation```
     
+## Usage
 
 It uses two functions
 
