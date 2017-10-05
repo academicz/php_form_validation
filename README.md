@@ -10,7 +10,16 @@ Using composer
     
 ## Usage
 
-Include Form class to your page
+Include 
+    ### Form class 
+    ### jQuery
+    ### bootstrap js,css
+    ### bootstrapValidator.min.js
+    ### bootstrapValidator.min.css
+    
+in your page
+   
+
 
 It uses two functions
 
