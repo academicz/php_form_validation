@@ -11,11 +11,11 @@ Using composer
 ## Usage
 
 Include 
-    ### Form class 
-    ### jQuery
-    ### bootstrap js,css
-    ### bootstrapValidator.min.js
-    ### bootstrapValidator.min.css
+    __Form class__
+    __jQuery__
+    __bootstrap js,css__
+    __bootstrapValidator.min.js__
+    __bootstrapValidator.min.css__
     
 in your page
    
