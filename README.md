@@ -51,7 +51,7 @@ eg:
     ```$obj -> validate("password",array("required","label"=>"password","regexp"=>"name"));```
 
 * 2. applyvalidations() to apply the generated validation rules to the page 
-    Only work if bootstrap validater is included in the page
+    Only work if bootstrap validater is included in the page.
     
 eg:
     ```<script>
