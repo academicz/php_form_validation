@@ -6,7 +6,7 @@ A PHP plugin to validate all form fields using the bootstrap validator without w
 
 Using composer 
     
-    ```composer require rahulreghunath11/php-rvalidation```
+    composer require rahulreghunath11/php-rvalidation
     
 ## Usage
 
