@@ -6,7 +6,7 @@
     "type": "library",
     "description": "PHP form validation plugin ",
     "keywords": ["validation","bootstrap validation"],
-    "homepage": "https://github.com/rahulreghunath11/php-form-validation",
+    "homepage": "https://github.com/rahulreghunath/php-form-validation",
     "license": "MIT",
     "authors": [
         {
