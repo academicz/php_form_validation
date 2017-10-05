@@ -1,6 +1,14 @@
 # PHP-Bootstrap Validaton Plugin 
 
 A PHP plugin to validate all form fields using the bootstrap validator without writing any javascript.
+
+## Installation
+
+    using composer 
+    
+    ```composer require rahulreghunath11/php-rvalidation```
+    
+
 It uses two functions
 
 * 1. validate() to validate a particular field with given validation rules
