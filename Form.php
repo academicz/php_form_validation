@@ -2,7 +2,7 @@
 /**
 * class for validate form 
 */ 
-class formBuilder
+class Form
 {
     var $form_id; # form id
     
@@ -175,7 +175,7 @@ class formBuilder
         $this->validators=$this->validators." } },";
     }
     
-    function applyvalidations($form_id)
+    function applyValidations($form_id)
     { 
         $header="
             $(document).ready(function() {

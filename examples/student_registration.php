@@ -35,7 +35,7 @@
                             
                                 <?php
                     include('../Form.php');
-                    $frm=new formBuilder;
+                    $frm = new Form;
                     ?>
                             <div class="form-group">
                                 <label class="control-label">Admission number</label>
@@ -70,7 +70,7 @@
     </div>
 
 <script>
-    <?php $frm->applyvalidations("form1");?>//validating forms using formBuilder class
+    <?php $frm->applyValidations("form1");?>//validating forms using formBuilder class
 </script>
 </body>
 </html>
