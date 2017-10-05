@@ -2,7 +2,7 @@
     "name": "rahulreghunath11/php-rvalidation",
     "minimum-stability": "dev",
     "require": {
-    }
+    },
     "type": "library",
     "description": "PHP form validation plugin ",
     "keywords": ["validation","bootstrap validation"],
