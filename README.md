@@ -16,7 +16,8 @@ It uses two functions
 
 * 1. validate() to validate a particular field with given validation rules
 
-    ```validate(field_name,array("validation rules"));```
+ eg
+    ```$obj -> validate(field_name,array("validation rules"));```
 
      
         validation rules are 
@@ -46,7 +47,7 @@ It uses two functions
                     "rmsg" - used with remote validation to display custom error message if remote 
                     validation is failed 
 
-    example: ```validate("password",array("required","label"=>"password","regexp"=>"name"));```
+    example: ```$obj -> validate("password",array("required","label"=>"password","regexp"=>"name"));```
 
 * 2. applyvalidations() to apply the generated validation rules to the page 
     Only work if bootstrap validater is included in the page
