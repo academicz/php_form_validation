@@ -19,6 +19,7 @@ Include
     
 in your page
    
+    $obj = new Form;
 
 
 It uses two functions
