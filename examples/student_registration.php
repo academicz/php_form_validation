@@ -1,15 +1,12 @@
-<!-- page :student_registration.php
-     purpose : student registration page
--->
 <!DOCTYPE html>
 <html>
 <head>
-    <!-- jQuery library -->
+   
 <meta name="viewport" content="width=device-width">
-  <!-- Latest compiled and minified CSS -->
+ 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<!-- Latest compiled JavaScript -->
-<script type="text/javascript" src="../vendor/jquery/jquery-1.10.2.min.js"></script>
+    
+<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     
