@@ -6,7 +6,7 @@ A PHP plugin to validate form using the bootstrap validator without writing any 
 
 Using composer 
     
-    composer require rahulreghunath11/php-rvalidation
+    composer require rahulreghunath/php-rvalidation
     
 ## Usage
 
